@@ -36,9 +36,7 @@ Me gusta **aprender construyendo**, experimentar con diferentes enfoques y compr
 
 | Proyecto | Descripción | Enfoque | Tecnologías |
 |---|---|---|---|
-| [**BlindSector**](https://github.com/BeckanG728/blind-sector) | Juego táctico 1v1 por turnos con IA probabilística y niebla de guerra. | Algoritmos · Lógica de juego · Gestión del estado | Java |
-| [**SportPulse**](https://github.com/BeckanG728/Equipo10-SportPulseMS) | Plataforma de fútbol desarrollada como un proyecto basado en microservicios. | Separación de servicios · Desarrollo backend · Organización del sistema | Java · Spring Boot |
-| [**BankCore**](https://github.com/BeckanG728/bankcore-microservices) | Sistema bancario desarrollado mediante servicios independientes. | Desarrollo backend · Gestión de datos · Comunicación entre servicios | Java · Spring Boot · PostgreSQL |
+| [**Pry**](url) | Descripcion | - | - |
 
 ---
 
