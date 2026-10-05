@@ -36,7 +36,7 @@ Me gusta **aprender construyendo**, experimentar con diferentes enfoques y compr
 
 | Proyecto | Descripción | Enfoque | Tecnologías |
 |---|---|---|---|
-| [**Pry**](url) | Descripcion | - | - |
+| [**FleetControl**](https://github.com/sb-geronimo/Equipo3-ProyectoBytesColaborativos) | Gestion de flotas y rutas | Microservicios, Circuit Breaker | Java, Springboot, Postgres SQL, maven |
 
 ---
 
