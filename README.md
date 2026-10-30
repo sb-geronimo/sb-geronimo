@@ -36,7 +36,9 @@ Me gusta **aprender construyendo**, experimentar con diferentes enfoques y compr
 
 | Proyecto | Descripción | Enfoque | Tecnologías |
 |---|---|---|---|
-| [**FleetControl**](https://github.com/sb-geronimo/Equipo3-ProyectoBytesColaborativos) | Gestion de flotas y rutas | Microservicios, Circuit Breaker | Java, Springboot, Postgres SQL, maven |
+| [**FleetControl**](https://github.com/sb-geronimo/Equipo3-ProyectoBytesColaborativos) | Gestion de flotas y rutas | Microservicios, Circuit Breaker | Java, Springboot, Postgres SQL, maven, docker |
+| [**BankCore**](https://github.com/sb-geronimo/bankcore-microservices) | Gestion bancaria | Microservicios, Docker | Java, Springboot, Postgres SQL, maven, docker |}
+| [**Ultimo-Aliento**](https://github.com/sb-geronimo/ultimo-aliento) | Videojuego 3d para windows | 3d, Laberinto, Primera Persona | Unity, C# |
 
 ---
 
@@ -54,5 +56,6 @@ Me gusta **aprender construyendo**, experimentar con diferentes enfoques y compr
 ## Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beckan-geronimo)
+[![Gmail](https://img.shields.io/badge/Gmail-FF2201?style=for-the-badge&logo=gmail&logoColor=white)](sb.geronimo.v@gmail.com)
 
 </div>
